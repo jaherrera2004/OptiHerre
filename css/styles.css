@@ -1,0 +1,10 @@
+#hero-section {
+  min-height: 100vh; /* Ocupa toda la pantalla */
+  background-image: url('//media/wu-yi-oqlEKLMmTNg-unsplash.jpg');
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  display: flex;
+  align-items: center; /* Centrar contenido verticalmente */
+  justify-content: center; /* Opcional: Centrar horizontalmente */
+}
